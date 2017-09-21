@@ -1,0 +1,17 @@
+{
+  "name": "gulp-direct",
+  "version": "2017.0.0",
+  "description": "yet a gulp plugin of direct stream.",
+  "main": "main.js",
+  "author": "Chen Shen Chao <chaosannals@outlook.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaosannals/gulp-direct.git"
+  },
+  "keywords": [
+    "gulp",
+    "each",
+    "one"
+  ]
+}
